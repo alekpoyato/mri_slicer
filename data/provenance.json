@@ -1,0 +1,18 @@
+{
+  "dataset": "OpenNeuro ds000114",
+  "subject": "sub-01",
+  "session": "ses-test",
+  "modality": "T1w",
+  "retrieved_utc": "2026-10-18",
+  "license": "CC0",
+  "dataset_doi": "10.18112/openneuro.ds000114.v1.0.2",
+  "source_url": "https://s3.amazonaws.com/openneuro.org/ds000114/sub-01/ses-test/anat/sub-01_ses-test_T1w.nii.gz",
+  "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/master/dataset_description.json",
+  "git_annex_pointer_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/1.0.2/sub-01/ses-test/anat/sub-01_ses-test_T1w.nii.gz",
+  "bytes": 8677710,
+  "md5": "d6820f6cb8fb965e864419c14f6a22d5",
+  "sha256": "2bbe4430223d9b9ce47d4dab3ff398a69fefbb481cbf3bd136e07f363a73919c",
+  "license_scope": "MRI data and dataset metadata; code is AI-assisted learning material",
+  "paper": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3641991/",
+  "test_python": "3.12.14"
+}
